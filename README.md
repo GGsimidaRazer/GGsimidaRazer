@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 ![Visitor Count](https://profile-counter.glitch.me/GGsimidaRazer/count.svg)
 It's ME! GGsimidaRazer!
