@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ### It's ME! GGsimidaRazer!
+Welcome to my page! I'm glad to have you here. Feel free to leave some footprints!
